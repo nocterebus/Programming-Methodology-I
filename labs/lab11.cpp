@@ -29,3 +29,4 @@ int main (){
 	std::cout<<"The first negative element is "<<*neg<<'\n';
 	return 0;
 }
+
