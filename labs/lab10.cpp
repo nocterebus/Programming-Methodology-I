@@ -42,3 +42,4 @@ for(std::map<int,int>::iterator it = MERP.begin(); it != MERP.end(); ++it){
 std::cout<<"The mode is "<<mode<<'\n';
 	return 0;
 }
+
